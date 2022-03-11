@@ -1,7 +1,7 @@
 #include <stdio.h>
-// main is the entrance  of programm
 int main(void)
-{
-puts("\"Programming is like building a multilingual puzzle\n");
+{// main is the entrance  of programm
+
+puts("\"Programming is like building a multilingual puzzle");
 return (0);
 }
