@@ -18,5 +18,7 @@ int main(void)
 		putchar(upper_case);
 	}
 
+	putchar("\n"0);
+
 	return (0);
 }
