@@ -1,19 +1,22 @@
 #include <stdio.h>
 /**
  * main - Entry point
- * 
+ *
  * return: always 0 (Success/correct)
  */
 int main(void)
 {
-	char base_16;
-	for (base_16 = 48; base_16 <= 57; base_16++)
+	int  number;
+	for (number = 48; number <= 57; number)
 	{
-		putchar(base_16);
+		putchar(number);
+	
+	if (number == 57)
+	{
+		break;
 	}
-	for (base_16 = 97; base_16 <= 102; base_16++)
-	{
-		putchar(base_16);
+	putchar(',');
+	putchar(' ');
 	}
 
 	putchar ('\n');
