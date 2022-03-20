@@ -1,4 +1,4 @@
-#include "main"
+#include "main.h"
 /**
  * _islower -returns 1 if lower case alphabet and 0 other wise
  * @c: takes in a character
