@@ -20,7 +20,7 @@ void print_to_98(int n)
 			}
 		}
 	}
-	els
+	else
 	{
 		for (i = n; i < 99; i++)
 		{
@@ -33,4 +33,3 @@ void print_to_98(int n)
 	}
 	printf("\n");
 }
-	
