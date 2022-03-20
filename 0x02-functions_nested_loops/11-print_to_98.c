@@ -20,7 +20,7 @@ void print_to_98(int n)
 			}
 		}
 	}
-	else
+	els
 	{
 		for (i = n; i < 99; i++)
 		{
